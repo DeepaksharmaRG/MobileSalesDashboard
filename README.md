@@ -53,9 +53,7 @@ To build an intuitive, user-centric dashboard that helps stakeholders track key 
 
 ## 6.  Screenshots / Demo
 
-https://github.com/DeepaksharmaRG/MobileSalesDashboard/blob/main/MobilesalesMain.png
-
-> 📌 *Add your actual screenshots inside an "images" folder in the repo and update the paths above.*
+![Dashboard Overview](https://github.com/DeepaksharmaRG/MobileSalesDashboard/blob/main/MobilesalesMain.png)
 
 ---
 
