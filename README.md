@@ -53,9 +53,7 @@ To build an intuitive, user-centric dashboard that helps stakeholders track key 
 
 ## 6.  Screenshots / Demo
 
-| Overview | Region-wise Sales |
-|----------|------------------|
-| ![Dashboard Overview](images/overview.png) | ![Map Visual](images/map.png) |
+https://github.com/DeepaksharmaRG/MobileSalesDashboard/blob/main/MobilesalesMain.png
 
 > 📌 *Add your actual screenshots inside an "images" folder in the repo and update the paths above.*
 
