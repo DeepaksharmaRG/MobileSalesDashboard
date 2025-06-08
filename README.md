@@ -55,5 +55,9 @@ To build an intuitive, user-centric dashboard that helps stakeholders track key 
 
 ![Dashboard Overview](https://github.com/DeepaksharmaRG/MobileSalesDashboard/blob/main/MobilesalesMain.png)
 
+![Dashboard 2](https://github.com/DeepaksharmaRG/MobileSalesDashboard/blob/main/Mobilesales2.png)
+
+![Dashboard 3](https://github.com/DeepaksharmaRG/MobileSalesDashboard/blob/main/Mobilesales3.png)
+
 ---
 
