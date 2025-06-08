@@ -30,13 +30,13 @@ This project was built as part of a Power BI course to demonstrate practical BI 
 
 ## 5. Features & Highlights
 
-### 🧩 Business Problem
+###  Business Problem
 The company lacked a clear and quick way to analyze mobile sales performance by category, region, and time period—impacting strategic decisions.
 
-### 🎯 Goal of the Dashboard
+###  Goal of the Dashboard
 To build an intuitive, user-centric dashboard that helps stakeholders track key sales metrics, product performance, and profitability trends.
 
-### 👁 Walkthrough of Key Visuals
+###  Walkthrough of Key Visuals
 - **KPI Cards**: Total Sales, Total Quantity, and Profit.
 - **Region-wise Sales Map**: Geographical performance distribution.
 - **Category-wise Bar Charts**: Sales and profit across different mobile categories.
@@ -44,7 +44,7 @@ To build an intuitive, user-centric dashboard that helps stakeholders track key 
 - **Donut Chart**: Product category contribution to total sales.
 - **Interactive Filters**: Time period, region, and category filters for deeper analysis.
 
-### 💡 Business Impact & Insight
+###  Business Impact & Insight
 - Identified underperforming regions with low profit margins.
 - Helped visualize top-selling product categories for revenue optimization.
 - Provided actionable insights to improve regional marketing strategy.
